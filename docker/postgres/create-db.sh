@@ -1,0 +1,3 @@
+psql <<-EOSQL
+  CREATE DATABASE db;
+EOSQL
